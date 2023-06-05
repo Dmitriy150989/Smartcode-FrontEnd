@@ -1,0 +1,16 @@
+@import url(./components/heder.css);
+@import url(./components/footer.css);
+.active {
+  padding-top: 100px;
+  color: #fff;
+  width: 100%;
+  height: 300px;
+  background: #383838;
+}
+
+.content {
+  color: #fff;
+  width: 100%;
+  height: 300px;
+  background: #2c2c2c;
+}
